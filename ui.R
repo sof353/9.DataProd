@@ -11,8 +11,6 @@
 # Red lines highlight the measurement location as measurements are made
 ####################################################################################
 
-# setwd("~/R/coursework/9.DataProducts/Project/shinyApp/")
-
 library(shiny)
 
 shinyUI(fluidPage(
